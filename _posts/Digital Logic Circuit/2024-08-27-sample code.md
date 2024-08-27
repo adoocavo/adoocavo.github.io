@@ -4,6 +4,7 @@ typora-root-url: ../../
 categories: Digital&nbspLogic&nbspCircuit
 tag: [디지털공학, verilog]
 layout: single
+toc: true
 ---
 
 ## [Verilog Sample Code]
@@ -30,7 +31,13 @@ module jdflipflop(q,qbar,clk,rst,d);
 endmodule
 ```
 
+#### 설명1
 
+JK FF는~~
+
+#### 설명2
+
+JK FF는~~
 
 ### #2. JK FF TestBench
 
@@ -71,6 +78,18 @@ module jdflipfloptb;
   end
 endmodule
 ```
+
+#### 설명1
+
+JK FF는~~
+
+#### 설명2
+
+JK FF는~~
+
+
+
+
 
 [코드 출처]: https://verificationguide.com/verilog-examples/
 
