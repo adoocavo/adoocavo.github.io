@@ -1,5 +1,5 @@
 ---
-title:  "Sample code"
+title:  "Verilog Sample code"
 typora-root-url: ../../
 categories: Digital&nbspLogic&nbspCircuit
 tag: [디지털공학, verilog]
@@ -10,18 +10,8 @@ sidebar:
     nav: "docs" #포스트 내에서 왼쪽에 docs 보이기
 ---
 
-notice 기능 test
-{: .notice--warning}
-
-<div class="notice--warning">
-  <h4>notice 기능 test</h4>  
-  <ul>
-		<li>1. 이렇게 된다</li>	  
-		<li>2. 이렇게 된다</li>
-  	<li>3. 우왕</li>    
-  </ul>
-</div>
 [버튼 기능 test(커리큘럼)](https://www.inflearn.com/course/반도체-아날로그-회로설계-실무-digital-ip){: .btn}
+{: .notice--warning}
 
 ## 1. JK-FF
 

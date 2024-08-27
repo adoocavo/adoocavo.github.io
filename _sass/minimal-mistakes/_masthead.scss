@@ -23,6 +23,9 @@
     -ms-flex-pack: justify;
     justify-content: space-between;
     font-family: $sans-serif-narrow;
+    
+    font-size: $type-size-5;
+    font-weight: bold;
 
     @include breakpoint($x-large) {
       max-width: $max-width;
