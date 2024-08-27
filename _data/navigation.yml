@@ -42,7 +42,12 @@ docs:
         #url: 
       - title: "UVM"
         #url: 
-
+  - title: "Projects"
+    # children: 
+    #   - title: ""
+    #     #url: 
+    #   - title: ""
+    #     #url: 
       
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
