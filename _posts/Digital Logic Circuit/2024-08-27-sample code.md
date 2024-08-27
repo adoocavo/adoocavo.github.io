@@ -2,6 +2,7 @@
 title:  "Sample code"
 typora-root-url: ../../
 categories: Digital&nbspLogic&nbspCircuit
+tag: [디지털공학, verilog]
 layout: single
 ---
 
