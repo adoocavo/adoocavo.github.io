@@ -1,8 +1,8 @@
 ---
 title:  "Sample code"
 typora-root-url: ../../
-categories: Digital_Logic_Circuit
-
+categories: Digital&nbspLogic&nbspCircuit
+layout: single
 ---
 
 ## [Verilog Sample Code]
