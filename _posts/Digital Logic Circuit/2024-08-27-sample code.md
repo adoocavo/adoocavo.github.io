@@ -1,6 +1,7 @@
 ---
 title:  "Sample code"
 typora-root-url: ../../
+categories: Digital_Logic_Circuit
 
 ---
 
