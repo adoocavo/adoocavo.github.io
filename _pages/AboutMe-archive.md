@@ -7,7 +7,7 @@ author_profile: true  #포스트 내에서 왼쪽 profile 보이기
 #     nav: "docs" #포스트 내에서 왼쪽에 docs 보이기
 ---
 
-## Hello, I'm Kahng ju Choi ! 🙂
+## Hello, I'm KahngJu Choi ! 🙂
 
 
 

@@ -21,12 +21,9 @@ notice 기능 test
   	<li>3. 우왕</li>    
   </ul>
 </div>
-
 [버튼 기능 test(커리큘럼)](https://www.inflearn.com/course/반도체-아날로그-회로설계-실무-digital-ip){: .btn}
 
-## [Verilog Sample Code]
-
-### #1. JK FF 
+## 1. JK-FF
 
 ```verilog
 // JK-FF
@@ -48,15 +45,17 @@ module jdflipflop(q,qbar,clk,rst,d);
 endmodule
 ```
 
-#### 설명1
+### 설명1
 
-JK FF는~~
+- JK FF는 ~~
 
-#### 설명2
+### 설명2
 
-JK FF는~~
+- JK FF는 ~~
 
-### #2. JK FF TestBench
+
+
+## 2. JK-FF TestBench
 
 ```verilog
 // JK-FF TestBench 
@@ -96,17 +95,13 @@ module jdflipfloptb;
 endmodule
 ```
 
-#### 설명1
+### 설명1
 
-JK FF는~~
+- JK FF는 ~~
 
-#### 설명2
+### 설명2
 
-JK FF는~~
-
-
-
-
+- JK FF는 ~~
 
 [코드 출처]: https://verificationguide.com/verilog-examples/
 
