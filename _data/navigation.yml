@@ -6,6 +6,44 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: "Search"
+    url: /search/
+
+docs:
+  - title: "Fundamental Knowledge"
+    children:
+      - title: "Network Analysis"
+        url: /categories/Network&nbspAnalysis/
+      - title: "Electronic Circuit"
+        url: /categories/Electronic&nbspCircuit/
+      - title: "Signals and Systems"
+        url: /categories/
+      - title: "Digital Logic Circuit"
+        url: /categories/Digital&nbspLogic&nbspCircuit
+      - title: "Digital IC Design"
+        #url:  
+      - title: "Digital System Design"
+        #url:  
+      - title: "Computer Architecture"
+        #url:  
+      - title: "Microprocessor/Embedded SW"
+        #url:  
+      # - title: "Embedded SW : Coretex-M3/M4"
+      #   #url:  
+  - title: "RTL Design"
+    children: 
+      - title: "SoC Design/Design Verification"
+        #url: 
+      - title: "ASIC Flow"
+        #url: 
+  - title: "RTL Verification"
+    children: 
+      - title: "System Verilog"
+        #url: 
+      - title: "UVM"
+        #url: 
+
+      
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

@@ -4,7 +4,10 @@ typora-root-url: ../../
 categories: Digital&nbspLogic&nbspCircuit
 tag: [디지털공학, verilog]
 layout: single
-toc: true
+toc: true 		#포스트 내에서 내용 관련 목차 보이기
+author_profile: false  #포스트 내에서 왼쪽 profile 보이기
+sidebar:
+    nav: "docs" #포스트 내에서 왼쪽에 docs 보이기
 ---
 
 ## [Verilog Sample Code]
