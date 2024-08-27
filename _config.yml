@@ -19,7 +19,7 @@ locale                   : "ko-KR" # "ko-KR", "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "KahngJu's Blog"
 title_separator          : "|"
-subtitle                 : "SW & HW" # site tagline that appears below site title in masthead
+subtitle                 : "since 2024/08/26" # site tagline that appears below site title in masthead
 name                     : "KahngJu Choi"
 description              : "RTL DV Engineer"
 url                      : "https://adoocavo.github.io"
